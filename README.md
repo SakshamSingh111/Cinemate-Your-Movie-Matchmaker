@@ -1,0 +1,1 @@
+CineMate: Your Movie Matchmaker is a Python & Streamlit-based recommendation system that suggests movies based on your choice. Using TMDB data, it fetches genres, cast, crew, and posters in real time, delivering visually rich, personalized recommendations in an interactive and user-friendly interface.
